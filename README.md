@@ -7,10 +7,4 @@
 budget-master is a web application for monitoring and tracking expenses, and manage the budgets.
 
 ### :eyes: Overview
-<br>
-<br>
 This is a mono repository to contain Budget Master server api and web, desktop, mobile application projects.
-<br>
-<br>
-
-
